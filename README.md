@@ -19,6 +19,3 @@ Dit is het project canvas.
 [Project_canvas.pdf](https://github.com/jeffreyDauwe/Project-Process-design/files/13777628/Project_canvas.pdf)
 
 
-
-dit is de testprocedure
-[Process design de TestProcedure.pdf](https://github.com/jeffreyDauwe/Project-Process-design/files/13777648/Process.design.de.TestProcedure.pdf)

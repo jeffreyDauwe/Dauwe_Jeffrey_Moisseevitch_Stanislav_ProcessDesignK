@@ -5,7 +5,7 @@ Stanislav had onlangs panne met zijn auto en heeft hiervoor pechbijstand moeten 
 Dit zou hij met ons project zelf geweten hebben omdat de accu indicator direct aangesloten is aan de autobatterij en zo de spanning weergeeft. Door deze info zou hij dan zelf al een oplossing kunnen zoeken.
 
 
-Dit is het concept van ons project
+Dit is het prototype van ons project
 
 ![concept](https://github.com/jeffreyDauwe/Project-Process-design/assets/152855137/a935bf58-01fe-461a-9088-fd69bec40d7d)
 

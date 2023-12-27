@@ -1,8 +1,8 @@
 # Accu indicator
 
 
-Stanislav had onlangs panne had met zijn auto en heeft hiervoor pechbijstand moeten bellen. De auto gaf geen duidelijke melding wat het probleem was. De persoon van de pechbijstand heeft dan kunnen uitmeten dat de batterij een te lage spanning had.
-dit zou hij met ons project direct geweten hebben omdat de accu indicator direct aangesloten in aan de autobatterij en zo de spanning weergeeft.
+Stanislav had onlangs panne met zijn auto en heeft hiervoor pechbijstand moeten bellen. De auto gaf geen duidelijke melding wat het probleem was. De persoon van de pechbijstand heeft dan kunnen uitmeten dat de batterij een te lage spanning had en deze opgeladen.
+Dit zou hij met ons project zelf geweten hebben omdat de accu indicator direct aangesloten is aan de autobatterij en zo de spanning weergeeft En kon hij daardoor zelf al een oplossing zoeken.
 
 
 

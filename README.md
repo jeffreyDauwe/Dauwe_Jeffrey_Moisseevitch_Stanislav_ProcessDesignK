@@ -7,7 +7,9 @@ Dit probleem kan bij iedereen voorkomen met een oudere auto(bouwjaar 2016) en ze
 
 
 Dit is het prototype van ons project
-![prototype1](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/f5bd5781-7107-45b2-81fa-1735653ed8d9)
+![prototype Batt meter](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/a6f8f0fa-ff77-421f-9ee7-e22672957fb9)
+![schema battmeter](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/0228b326-6343-446d-a4b4-3f280f618421)
+
 
 Dit is onze SWOT.
 ![SWOT aandachtspunten](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/761d0cb5-a35f-4642-9d1d-289d009b040c)

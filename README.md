@@ -8,6 +8,7 @@ Dit probleem kan bij iedereen voorkomen met een oudere auto(bouwjaar 2016) en ze
 
 Dit is het prototype van ons project
 ![prototype Batt meter](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/a6f8f0fa-ff77-421f-9ee7-e22672957fb9)
+Schema:
 ![schema battmeter](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/assets/152855137/0228b326-6343-446d-a4b4-3f280f618421)
 
 

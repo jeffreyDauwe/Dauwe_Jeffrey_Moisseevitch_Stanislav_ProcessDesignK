@@ -20,7 +20,7 @@ Dit is de powerpoint van onze voorstelling.
 
 
 Dit is het project canvas.
-[Project_canvas (5).pdf](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/files/14395882/Project_canvas.5.pdf)
+[Project canvas Dauwe_Jeffrey_Moisseevitch_Stanislav).pdf](https://github.com/jeffreyDauwe/Dauwe_Jeffrey_Moisseevitch_Stanislav_ProcessDesignK/files/14395882/Project_canvas.5.pdf)
 
 
 
